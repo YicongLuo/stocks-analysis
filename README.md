@@ -10,7 +10,7 @@ Refactoring code is very important for this project,which is very effective, bec
 ![2017_Speed](Resources/2017_Speed.png)
 ![2018_Speed](Resources/2018_Speed.png)
 ## Summary
-According to above analysis, BQ Stock price is related the industry. If the whole green energy stocks increase, BQ increase and versa. 
+According to above analysis, BQ Stock price is related the industry. If the whole green energy stocks increase, BQ increase and versa visa. Stock "ENPH" is the best option, because this stock have positive return in 2017 and 2018.
 ### What are the advantages or disadvantages of refactoring code?
 ##### Advantage:
 1.Reducing the complexity, which casue code ran speed incease
