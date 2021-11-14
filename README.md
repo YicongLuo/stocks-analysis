@@ -12,10 +12,10 @@ Refactoring code is very important for this project,which is very effective, bec
 ## Summary
 According to above analysis, BQ Stock price is related the industry. If the whole green energy stocks increase, BQ increase and versa. 
 ###1. What are the advantages or disadvantages of refactoring code?
-####Advantage:
+#####Advantage:
 1.Reducing the complexity, which casue code ran speed incease
 2.Easy to find out the potential mistakes or bugs. 
-####Disadvantage
+#####Disadvantage
 1.Refactoring code is big chanllege and if Without the support of a lot of knowledge and experience, reasonable solutions need to be tried repeatedly
 ###How do these pros and cons apply to refactoring the original VBA script?
 To refactor the code, we need to check result of every change and make sure that can increase efficiency. If do well, it can reduce time of runing code.
