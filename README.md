@@ -1,7 +1,7 @@
 # stocks-analysis
-##The purpose and background 
+## The purpose and background 
 Steve's parents want to invest all their money to Daqo New Energy Corporation(DQ). They get all information about green energy industries in 2017 & 2018. Steve analyzes these information to find out DQ is best choice for their parents or not.
-##Result 
+## Result 
 Below graphs are the comparison of the analysis of all stock betweens 2017 and 2018. The ticker is name of each stock, and second is the number of daily trades of stocks. The "return" colunm show how many precentage that is earned or loss in the 2017 and 2018.
 ![VBA_Challenge_2017](Resources/VBA_Challenge_2017.png)
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
