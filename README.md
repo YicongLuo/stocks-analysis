@@ -7,8 +7,8 @@ Below graphs are the comparison of the analysis of all stock betweens 2017 and 2
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 In 2017, the most stocks increase except TERP. DQ's return in  have the 199.45%, which is the highest increase rate in the 2017. In 2018, the green energy stocks are not favored by the market, most of them are losses except ENPH and RUN. DQ decrease 62.60% which is also highist decrease rate in 2018
 Refactoring code is very important for this project,which is very effective, because it is really fast:
-![2017 Speed](Resources/2017 Speed.png)
-![2018 Speed](Resources/2018 Speed.png)
+![2017_Speed](Resources/2017_Speed.png)
+![2018_Speed](Resources/2018_Speed.png)
 ## Summary
 According to above analysis, BQ Stock price is related the industry. If the whole green energy stocks increase, BQ increase and versa. 
 ###1. What are the advantages or disadvantages of refactoring code?
