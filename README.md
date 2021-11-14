@@ -19,3 +19,4 @@ According to above analysis, BQ Stock price is related the industry. If the whol
 1.Refactoring code is big chanllege and if Without the support of a lot of knowledge and experience, reasonable solutions need to be tried repeatedly
 ### How do these pros and cons apply to refactoring the original VBA script?
 To refactor the code, we need to check result of every change and make sure that can increase efficiency. If do well, it can reduce time of runing code.
+lol
